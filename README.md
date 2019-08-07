@@ -1,4 +1,4 @@
-# Soccer_KG_builder
+# Soccer-KG_builder
 Build knowledge graph on soccer domain from Wikipedia link
 
 ## TO BE IMPLEMENTED
