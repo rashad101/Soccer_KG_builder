@@ -5,5 +5,9 @@ Build knowledge graph on soccer domain from Wikipedia link
 ### For National Teams
 The following command will fetch information about given national team and stats about its players.
 
+```python
+
+```
+
 ### For Club Teams
 The following command will fetch information about given club team and stats about its players.
