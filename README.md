@@ -6,3 +6,4 @@ Build knowledge graph on soccer domain from Wikipedia link
 The following command will
 
 ### For Club Teams
+The following command will
